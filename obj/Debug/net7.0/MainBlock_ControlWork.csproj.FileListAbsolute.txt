@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\bin\Debug\net7.0\MainBlock_ControlWork.exe
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\bin\Debug\net7.0\MainBlock_ControlWork.deps.json
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\bin\Debug\net7.0\MainBlock_ControlWork.runtimeconfig.json
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\bin\Debug\net7.0\MainBlock_ControlWork.dll
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\bin\Debug\net7.0\MainBlock_ControlWork.pdb
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.dll
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\refint\MainBlock_ControlWork.dll
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.pdb
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\MainBlock_ControlWork.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\MainBlock_ControlWork\obj\Debug\net7.0\ref\MainBlock_ControlWork.dll
